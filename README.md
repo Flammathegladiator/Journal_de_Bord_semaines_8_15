@@ -19,6 +19,7 @@
 ## [Cours 12](cours_12.md) 
 * Ajouter à votre journal de bord les documents de votre tempête d'idées et les esquisses en lien avec votre projet pour la présentation 3. 
 
+![image](file:///E:/Domaines%20du%20multim%C3%A9dia%20-%20582115MO/God%20of%20War%20Rome/Images/Brainstorm/Brainstorm.png)
 
 ## [Cours 13](cours_13.md) 
 * Créer un scénarimage ou un schéma narratif. 
