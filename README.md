@@ -18,10 +18,10 @@
 * Rétrospective de la présentation 2.
 
 ## [Cours 12](cours_12.md) 
-![nom](https://github.com/Flora0510/Journal_de_Bord_semaines_8_15/blob/main/Images/brainstorm.png)
+![name](https://github.com/Flora0510/Journal_de_Bord_semaines_8_15/blob/main/Images/brainstorm.png)
 
 ## [Cours 13](cours_13.md) 
-![nom](https://github.com/Flora0510/Journal_de_Bord_semaines_8_15/blob/main/Images/storyboard.png)
+![nom
 
 #### Autre devoir
 * Préparer la présentation 3. 
