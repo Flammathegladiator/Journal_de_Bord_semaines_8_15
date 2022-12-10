@@ -21,7 +21,7 @@
 ![nom](https://github.com/Flora0510/Journal_de_Bord_semaines_8_15/Images/brainstorm.png)
 
 ## [Cours 13](cours_13.md) 
-
+![nom](https://github.com/Flora0510/Journal_de_Bord_semaines_8_15/blob/main/Images/Carteheuristique.jpg)
 
 #### Autre devoir
 * Préparer la présentation 3. 
