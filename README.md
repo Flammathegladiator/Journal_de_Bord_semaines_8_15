@@ -19,11 +19,11 @@
 
 ## [Cours 12](cours_12.md) 
 * Ajouter à votre journal de bord les documents de votre tempête d'idées et les esquisses en lien avec votre projet pour la présentation 3. 
-![nom](https://github.com/Flora0510/Journal_de_Bord_semaines_8_15/blob/main/Images/brainstorm.ppg)
+![nom](https://github.com/Flora0510/Journal_de_Bord_semaines_8_15/blob/main/Images/brainstorm.png)
 
 ## [Cours 13](cours_13.md) 
 * Créer un scénarimage ou un schéma narratif.
-![nom](https://github.com/Flora0510/Journal_de_Bord_semaines_8_15/blob/main/Images/storyboard.ppg)
+![nom](https://github.com/Flora0510/Journal_de_Bord_semaines_8_15/blob/main/Images/storyboard.png)
 
 #### Autre devoir
 * Préparer la présentation 3. 
