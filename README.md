@@ -23,15 +23,28 @@
 ## [Cours 13](cours_13.md) 
 ![nom](https://github.com/Flammathegladiator/Journal_de_Bord_semaines_8_15/blob/main/Images/storyboard.png)
 
-
-#### Autre devoir
-* Préparer la présentation 3. 
-
 ## [Cours 14](cours_14.md)
-* Écrire votre plan pour la présentation 3. 
 
-#### Autre devoir
-* Préparer la présentation 3. 
+Commencer avec l’introduction
+
+Montrer le brainstorm
+
+Montrer la carte heuristique
+
+Afficher trois projets similaires et parler des positives de ces projet (qu’est-ce qu’on peut utiliser comme inspiration pour notre jeu)
+
+Aspects visuels
+
+Jouer les deux aspects sonore
+
+Scénarimage (storyboard)
+
+Carte du scénarimage
+
+Éléments novateurs
+
+Période de questions
 
 ## [Cours 15](cours_15.md)
-* Rétrospective de la session. 
+
+C'était certainement l'un des projets les plus amusants sur lesquels on a travailler. Nous laisser décider quoi pitcher nous a donné beaucoup de liberté créative. J'aurais pu mieux parler et ne pas utiliser autant l'anglisisme pendant ma présentation mais c'était bien en général. Je ne suis toujours pas satisfait à 100% de la façon dont j'ai communiqué (pas assez fluide) donc c'est quelque chose sur lequel je vais améliorer.
